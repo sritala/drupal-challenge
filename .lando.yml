@@ -1,0 +1,4 @@
+name: name-drupal-challenge
+recipe: lamp
+config:
+  webroot: '  --webroot . \'
